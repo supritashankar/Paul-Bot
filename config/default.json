@@ -1,0 +1,12 @@
+{
+  "FB": {
+      "appSecret": "9f7e677c259e9435f8890574ad454403",
+      "pageAccessToken": "EAAI5oQoHrnEBAGW0y5Jn6TsfRZBNZBqnZAewWwnAmT3oCaSVsfVxXY2FRoRXO6LPQQieceFRPLmHrPdiO5Ro5Ke1NdP19XfEL983TkOx8LfbMrvdxhZBJS4bIpNqBaPnnLPrYLbeSOXja0AzKp05c5KOCkmpoOLlzBSdqIXxZAwZDZD",
+      "validationToken": "secretvalidationtoken",
+      "serverURL": "https://chatbusters.herokuapp.com/"
+  },
+  "WIT": {
+      "appId": "584885d8-2ff9-407a-a836-7d2155b14a9b",
+      "serverAccessToken": "MOBXE7KB7Z7YOMIBLESSJTDXUHXOXROM"
+  }
+}
